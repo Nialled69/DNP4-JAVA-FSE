@@ -1,0 +1,6 @@
+com\example\entity\User.class
+com\example\SpringDataJpaApplication.class
+com\example\repository\UserRepository.class
+com\example\service\UserService.class
+com\example\DataInitializer.class
+com\example\controller\UserController.class
